@@ -14,4 +14,4 @@ Welcome to the official Nova Hub script repository!
 Load the script using your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dreamyzone/Nova-hub-Blue-lock-rivals-no-cd/refs/heads/main/Inf-stamina"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dreamyzone/Nova-hub-Blue-lock-rivals-no-cd/refs/heads/main/Inf-stamina"))()
