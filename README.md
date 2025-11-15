@@ -6,7 +6,7 @@ Welcome to the official Nova Hub script repository!
 - Infinite Stamina
 - No Cooldown
 - Auto Dribble
-- Style Selector
+- Steal ball
 - Clean UI
 - Mobile Friendly
 
@@ -14,4 +14,4 @@ Welcome to the official Nova Hub script repository!
 Load the script using your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yourname/Nova-hub-Blue-lock-rivals-no-cd/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dreamyzone/Nova-hub-Blue-lock-rivals-no-cd/refs/heads/main/Inf-stamina"))()```
